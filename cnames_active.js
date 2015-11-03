@@ -303,6 +303,7 @@ var cnames_active = {
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io"
     ,"waterline": "waterlinejs.github.io"
     ,"weaver": "maxkfranz.github.io/weaver"
+    ,"whatevergeek": "whatevergeek.github.io"
     ,"wwb": "eqielb.github.io/wwb"
     ,"xprmntl": "xprmntl.github.io"
     ,"xto6": "mohebifar.github.io/xto6"
